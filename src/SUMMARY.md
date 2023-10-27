@@ -1,9 +1,9 @@
 # Summary
 
-[Introduction](./Introduction.md)
+[Introduction](./introduction.md)
 
 # Getting Started
- - [Installing](./Installing.md)
+ - [Installing](./installing.md)
 
 # Basic Programming Concepts 
 - [Variables](./basics/variables.md)
