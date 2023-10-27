@@ -25,7 +25,7 @@ codebases without changing anything.
 
 
 ## License
-© Crispy Strawberry. All rights reserved. \
+© Crispy Strawberry. All rights reserved.  
 No part of this book may be copied in any form without
 written permission of the author.
 
