@@ -26,12 +26,21 @@ codebases without changing anything.
 
 ## License
 © Crispy Strawberry. All rights reserved.  
-No part of this book may be copied in any form without
-written permission of the author.
+No part of this book may be copied in any format 
+without written permission of the author.
 
-The code samples owned by me in this 
-book are licensed under CC0 1.0 Universal license.
+All code samples taken from other projects are owned
+by their respective copyright owners.  
+The code samples owned by me in this book are licensed
+under 
+[CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en).
 
 
 ## Credits
 All the credit goes to me and myself.
+
+## Personal Notes
+According to someone, `zook` means arse in morrocan.
+I have not independently verified this claim but
+left it as an exercise to the reader.
+

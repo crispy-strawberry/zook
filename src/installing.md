@@ -32,7 +32,7 @@ named zig-linux-x86_64-[version].tar.xz
  ...
 ```
 Congratulations 😀. You have successfully installed zig 🎉🎉.
-
+Now go to the section to create a zig project.
 
 ## Windows
 1. Go to [the download page](https://ziglang.org/download/)
@@ -59,6 +59,7 @@ named zig-windows-x86_64-[version].zip
  ...
 ```
 Congratulations 😀. You have successfully installed zig 🎉🎉.
+Now go to the next section to create a zig project.
 
 ## macOS
 1. Go to [the download page](https://ziglang.org/download/)
@@ -85,5 +86,5 @@ named zig-macos-aarch64-[version].tar.xz
  ...
 ```
 Congratulations 😀. You have successfully installed zig 🎉🎉.
-
+Now go to the next section to create a zig project.
 
